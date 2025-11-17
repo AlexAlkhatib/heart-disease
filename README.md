@@ -1,4 +1,4 @@
-# **Cardiovascular Risk Prediction — Classification Models & Ensemble Learning**
+# ❤️ **Cardiovascular Risk Prediction — Classification Models & Ensemble Learning**
 
 Ce projet a pour objectif de **prédire les risques cardiovasculaires** à partir de données médicales en utilisant plusieurs modèles de classification.
 Il s’agit d’un projet **personnel**, conçu pour renforcer mes compétences en **machine learning supervisé**, **feature engineering**, **prétraitement**, et **optimisation d’hyperparamètres**.
