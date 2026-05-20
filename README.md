@@ -113,9 +113,9 @@ Un **VotingClassifier (soft voting)** combine plusieurs modèles :
 * SVC(probability=True)
 
 Objectif :
-✔ combiner les forces de chaque modèle
-✔ améliorer la stabilité
-✔ augmenter la précision sur les cas difficiles
+- ✔ combiner les forces de chaque modèle
+- ✔ améliorer la stabilité
+- ✔ augmenter la précision sur les cas difficiles
 
 
 ## 📈 **Évaluation**
@@ -155,14 +155,14 @@ heart_disease_classification/
 
 ## 🧠 **Compétences démontrées**
 
-✔ Prétraitement avancé des données
-✔ Pipelines scikit-learn professionnels
-✔ Feature engineering (création de target binaire)
-✔ Entraînement de modèles ML variés
-✔ Recherche d’hyperparamètres GridSearchCV/RandomizedSearchCV
-✔ Visualisation des performances
-✔ Ensemble Learning (VotingClassifier)
-✔ Exportation et réutilisation des datasets prétraités
+- ✔ Prétraitement avancé des données
+- ✔ Pipelines scikit-learn professionnels
+- ✔ Feature engineering (création de target binaire)
+- ✔ Entraînement de modèles ML variés
+- ✔ Recherche d’hyperparamètres GridSearchCV/RandomizedSearchCV
+- ✔ Visualisation des performances
+- ✔ Ensemble Learning (VotingClassifier)
+- ✔ Exportation et réutilisation des datasets prétraités
 
 
 ## 🚀 **Améliorations possibles**
